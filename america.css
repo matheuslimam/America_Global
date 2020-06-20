@@ -86,6 +86,7 @@ ul {
     height: 500px;
     overflow: hidden;
     margin-top: 4%;
+    z-index: 1;
 }
 
 .middle {
