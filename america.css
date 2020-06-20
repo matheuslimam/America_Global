@@ -204,8 +204,8 @@ main {
 
 .container1 {
     background-color: #2e8b57;
-    width: 240px;
-    height: 550px;
+    width: 20%;
+    height: 65%;
     display: flex;
     justify-content: center;
     margin: 7% 9%;/*margin dos containers*/
@@ -261,8 +261,8 @@ margin-top: -120px;
 
 .container2 {
     background-color: #2e8b57;
-    width: 240px;
-    height: 550px;
+    width: 20%;
+    height: 65%;
     display: flex;
     justify-content: center;
     margin: 7% 2%;
@@ -308,8 +308,8 @@ margin-top: -120px;
 
 .container3 {
     background-color: #2e8b57;
-    width: 240px;
-    height: 550px;
+    width: 20%;
+    height: 65%;
     display: flex;
     justify-content: center;
     margin: 7%;
