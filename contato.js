@@ -23,6 +23,16 @@ var zet=0;
             function apear3(zet){
                 if(zet==1){
                 var m = document.getElementById('hvr')
+                 m.innerHTML='<p class="informtxt">(11) 988827960</p>'
+                }
+                else {
+                var m = document.getElementById('hvr')
+                 m.innerHTML='<p></p>'
+                }
+            }
+            function apear4(zet){
+                if(zet==1){
+                var m = document.getElementById('hvr')
                  m.innerHTML='<p class="informtxt">INDISPONIVEL NO MOMENTO</p>'
                 }
                 else {
